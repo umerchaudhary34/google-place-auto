@@ -1,0 +1,2 @@
+export const TARGET_LOCATIONS = 'TARGET_LOCATIONS';
+export const TARGET_LOC_DATA = 'TARGET_LOC_DATA';
