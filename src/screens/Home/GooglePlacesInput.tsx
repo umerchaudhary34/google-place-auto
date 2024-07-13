@@ -50,7 +50,7 @@ const GooglePlacesInput: React.FC<Props> = ({
             }
           }}
           query={{
-            key: 'AIzaSyB6C53Nmy8LDfZiykX123vA4LfcduQkzIs',
+            key: 'YOUR_API_KEY',
             language: 'en',
           }}
           onFail={error => console.error('errorr', error)}
